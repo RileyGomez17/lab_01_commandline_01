@@ -247,7 +247,7 @@ mkdir
 What command did you use?
 ----------
 
-
+cd
 
 ==========
 23. Change your directory so that you're two directories up (foo)
